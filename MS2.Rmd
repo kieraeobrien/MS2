@@ -3,11 +3,6 @@ title: "MS2"
 author: "Kiera O'Brien"
 output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-
-```
 repo link: https://github.com/kieraeobrien/MS2
 
 The first project I looked at was Performance of Political Ads on Google, made by Michelle Gao. It utilizes the fivethirtyeight data set, which is already cleaned and packaged. A pro of this project is that it deals with a subject I'm very interested in, U.S. elections. The information it presents is also easy to understand. A con of this project is that the graphics did not appear to be very advanced relative to some of the other projects. It was also a little difficult to navigate, with the selection check boxes for candidates and multiple taps of visualizations. Additionally, the relationship it examines is well known, making the value add of the project the visual presentation rather than the conclusions drawn. 
